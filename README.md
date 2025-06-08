@@ -3,7 +3,7 @@
 
 BlockBlock is a plugin that allows server owners to prevent blocks from being broken. The purpose of the plugin is to restrict players' actions in certain worlds, on certain blocks.
 
-Check the plugin out on SpigotMC, [here]().
+Check the plugin out on SpigotMC, [here](https://www.spigotmc.org/resources/blockblock.125851/).
 
 Coded by Ricky :)
 
